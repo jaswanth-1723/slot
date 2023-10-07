@@ -23,9 +23,11 @@ Add your timetable using ```<td>``` tag.
 Execute the program using runserver command.
 
 ## CODE
+![output](https://github.com/jaswanth-1723/slot/assets/127680667/52fd6e01-52ed-4de5-9b7f-79bb03c20e78)
 
 
 ## OUTPUT
+
 
 
 ## HTML VALIDATOR
