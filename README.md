@@ -99,7 +99,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![output](https://github.com/jaswanth-1723/slot/assets/127680667/52fd6e01-52ed-4de5-9b7f-79bb03c20e78)
+![output](https://github.com/jaswanth-1723/slot/assets/127680667/5d7ce75e-a7d4-4fad-abe1-f1db9c34c242)
+
 
 
 ## HTML VALIDATOR
