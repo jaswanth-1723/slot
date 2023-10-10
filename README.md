@@ -99,7 +99,8 @@ Execute the program using runserver command.
 
 
 ## OUTPUT
-![output](https://github.com/jaswanth-1723/slot/assets/127680667/5d7ce75e-a7d4-4fad-abe1-f1db9c34c242)
+![exp 3](https://github.com/jaswanth-1723/slot/assets/127680667/7d608701-65d6-4a55-9b9a-792ffcc22f29)
+
 
 
 
