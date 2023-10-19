@@ -104,7 +104,6 @@ Execute the program using runserver command.
 
 
 
-## HTML VALIDATOR
 
 
 ## RESULT
